@@ -8,14 +8,14 @@ This repository only hosts the download. FontRescue is commercial software by [A
 
 ## Download
 
-**[fontrescue_2.0.0-1~ubuntu-noble_amd64.deb](https://github.com/artsunique/font-rescue-linux/releases)** · Ubuntu 24.04 LTS (and derivatives based on it), x86-64
+**[fontrescue_2.0.0-1.ubuntu-noble_amd64.deb](https://github.com/artsunique/font-rescue-linux/releases)** · Ubuntu 24.04 LTS (and derivatives based on it), x86-64
 
 SHA-256: `aba0acb6cdb3eefa94a709520712c1d6f0d1f20099e2ef297e6e85b98fb7b29b`
 
 ## Install
 
 ```bash
-sudo apt install ./fontrescue_2.0.0-1~ubuntu-noble_amd64.deb
+sudo apt install ./fontrescue_2.0.0-1.ubuntu-noble_amd64.deb
 ```
 
 Then start **FontRescue** from the applications menu, or run `fontrescue` in a terminal.
